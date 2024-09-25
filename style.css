@@ -1,8 +1,25 @@
+body{
+  font-family: "Fredoka", cursive;
+}
+
 h1{
-    font-family:'Courier New', Courier, monospace;
     font-weight: bold;
 }
 
 img{
-  width: 40px;  
+  height: 500px;
+  width: auto;  
+}
+
+h1{
+  background-color: #881111;
+  color: white;
+  padding: 30px;
+}
+ul{
+  background-color: #881111;
+}
+
+a{
+  color: white;
 }
